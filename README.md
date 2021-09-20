@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anasoftwareanddataengineer
 - 👀 I’m interested in AI, gaming, art and science, security
 - 🌱 I’m currently learning advanced AI algorithms
-- 💞️ I’m looking to collaborate on various projects including mobile apps, projects that include both art and science and new AI technologies
+- 💞️ I’m looking to collaborate on various projects including scientific research and papers, mobile apps, projects that include both art and science and new AI technologies
 - 📫 How to reach me anasoftwareanddataengineer@gmail.com or https://www.linkedin.com/in/ana-vesic/
 
 <!---
